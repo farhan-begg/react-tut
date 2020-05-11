@@ -1,6 +1,7 @@
 // src/Project.js
 
 import React from 'react'
+
 function POPOSSpace(props) {
     const { name, image, address } = props
     return (
@@ -11,3 +12,5 @@ function POPOSSpace(props) {
         </div>
     )
 }
+
+export default POPOSSpace
