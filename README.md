@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The app displays statistics of Current COVID 19 Deaths, Recoverd and Infected. 
+
+In order to run this app locally 
+
+npm install i
+
+dependencies used axios, react-chart-js
+
+framework used Material UI
+
 ## Available Scripts
 
 In the project directory, you can run:
